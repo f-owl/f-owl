@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=OWL&descAlign=43&descAlignY=36&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=05f0c9&text=OWL&descAlign=43&descAlignY=36&section=header&textBg=false&fontColor=FFF&fontAlign=50)
 
 <!--
 **f-owl/f-owl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
